@@ -1,9 +1,19 @@
 == README
 
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
+
+RailsCast
+http://railscasts.com/episodes/196-nested-model-form-part-1
+
+My Blog introduce
+http://codachang.blogspot.tw/2015/11/rails-nested-model-formrailscast.html
+
 
 * Ruby version
 
